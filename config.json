@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersender",
+        "uuid": 20964570,
+        "checksum": "8id9s"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
